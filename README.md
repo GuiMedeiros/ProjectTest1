@@ -1,2 +1,3 @@
 # ProjectTest1
-Learning Git
+First Repository to learn Git 
+Lesgoo
